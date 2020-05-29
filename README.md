@@ -7,10 +7,11 @@ Various tools for the command-line interface
   <dt>dir-time.py</dt>
   <dd>Displays the three date and time stamps on files and folders</dd>
   <dt>du.py</dt>
+  <dd>some-what like the Unix/Linux du command</dd>
   <dt>empty-these.py</dt>
-  <dt>Removes all items from the folders you specify on the command line</dt>
-  <dt>file\_exists\_case.py</dt>
-  <dt>Checks to see if a file exists, and is case sensitive</dt>
+  <dd>Removes all items from the folders you specify on the command line</dd>
+  <dt>file_exists_case.py</dt>
+  <dd>Checks to see if a file exists, and is case sensitive</dd>
 </dl>
 
 ## About arcem.py
